@@ -1,0 +1,4 @@
+For our assignment, I think we need to get together and decide which parts of the MLB data is relevant. 
+For example, we know that the teams are going to be important in determining the cities the players are from, but their jersey number probably isn’t as important.
+I think we should look at the batting averages as well because we could see how skilled the player are based on the city they are from. 
+And maybe certain cities produce more talented players?
